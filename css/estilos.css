@@ -1,0 +1,35 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+#contacto{
+    background-image: url(../images/fondo-contacto.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #E20000;
+}
+h1{
+    color: #E20000;
+}
+p{
+    color: #6A6A6A;
+}
+form div{
+    box-shadow: gray;
+    border-radius: 20px;
+}
+.btn{
+    color: #b791e5;
+    background-color: white;
+    font-weight: 500;
+    font-size: 16px;
+    border-radius: 50px;
+    padding: 5px 35px;
+}
+input, textarea{
+    border-radius: 15px;
+    border: 0px ;
+}
+textarea{
+    height: 150px;
+    resize: none;
+}
